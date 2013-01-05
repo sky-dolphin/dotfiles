@@ -1,0 +1,9 @@
+.*~
+*~
+.DS_Store
+*.sw[po]
+Session.vim
+.svn
+*.log
+*.bak
+.zshrc.local
